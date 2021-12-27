@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538770067872",
+    "project_id": "trolley-1b4e6",
+    "storage_bucket": "trolley-1b4e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538770067872:android:ff013819c904292e3ed4c5",
+        "android_client_info": {
+          "package_name": "com.example.android.trolley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538770067872-a1j5epud4g3t20rvn3ffnl3bnie6lmjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.trolley",
+            "certificate_hash": "125f1db9d4217d62841afea49e826d7e42ed7fd8"
+          }
+        },
+        {
+          "client_id": "538770067872-2i66nqpjkr06gtllchp1jp0reh91dsic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1h-pEHKw6FKbBwP0eIRAiRyHTi2bgk4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538770067872-2i66nqpjkr06gtllchp1jp0reh91dsic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
